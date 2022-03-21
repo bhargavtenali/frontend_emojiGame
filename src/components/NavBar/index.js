@@ -13,6 +13,17 @@ const NavBar = props => {
             alt="emoji logo"
           />
           <h1 className="title">Emoji Game</h1>
+          <p className="my-text">
+            WebApp built by Tenali Bhargav. <br />
+            To see my LinkedIn Profile{' '}
+            <a
+              href="https://www.linkedin.com/in/bhargavtenali/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Click Here
+            </a>
+          </p>
         </div>
         {isGameInProgress && (
           <div className="scores-container">

@@ -58,3 +58,11 @@
     margin-left: 32px;
   }
 }
+
+.my-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 16px;
+}
