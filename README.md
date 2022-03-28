@@ -1,5 +1,6 @@
-In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
+In this project, I have built **Emoji Game** using React.js
 
+### Live Link: https://bhemojigame.ccbp.tech/
 ### Refer to the image below:
 
 <br/>
